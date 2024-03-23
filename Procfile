@@ -1,1 +1,1 @@
-web: gunicorn first_django.wsgi
+web: gunicorn first-django-practice.wsgi
